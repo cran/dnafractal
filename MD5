@@ -1,0 +1,11 @@
+ab8d748513e4d9edceec7b08a3586c18 *DESCRIPTION
+d6f5503ec37f4e55bee7072f49124a17 *NAMESPACE
+220baf43746077b80d5a6e0dcbc96641 *R/coordinates2sequence.R
+3137e78ca006889ec4ce7143d6653cdd *R/data.R
+d3c64f78c7e1c35769a3a56c4a75b6d1 *R/dnafractal.R
+dc280fd6624c9b08ef74006927cd4742 *R/sign2base.R
+45aa1d7538dd090258a25d4de91ef656 *data/human_mitogenome.rda
+e14e4cba71193aeea83733c6b33ee232 *man/coordinates2sequence.Rd
+6555819b639ec2998d297a8ec522a024 *man/dnafractal.Rd
+ce89acda9a79ca55a1efe7b409df4556 *man/human_mitogenome.Rd
+7b0d9df19960deb04774eddd1a7fb2c7 *man/sign2base.Rd

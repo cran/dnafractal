@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "lines", "par", "points", "text")
+import("stringr")
+import("DescTools")
