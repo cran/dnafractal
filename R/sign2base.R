@@ -2,10 +2,10 @@
 #' @title Returns a DNA base based on the sign value of an X and Y coordinate
 #' @description The function takes the sign of an X and Y value and returns the corresponding DNA base.
 #'
-#' Version 0.0.1.
+#' Version 0.0.2.
 #' Author: Dr. Matthew Cserhati
 #' Email: matthew.cserhati@cui.edu
-#' May 5, 2025
+#' May 9, 2025
 #'
 #' @param sx sign of X coordinate
 #' @param sy sign of Y coordinate

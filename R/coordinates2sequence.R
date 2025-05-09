@@ -6,10 +6,10 @@
 #' the base pair corresponding to that coordinate is inferred, and the DNA string will be built up and returned as the
 #' product of the function.
 #'
-#' Version 0.0.1.
+#' Version 0.0.2.
 #' Author: Dr. Matthew Cserhati
 #' Email: matthew.cserhati@cui.edu
-#' May 5, 2025
+#' May 9, 2025
 #'
 #' @param xstart the starting x coordinate in the fractal image
 #' @param ystart the starting y coordinate in the fractal image

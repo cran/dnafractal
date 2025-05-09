@@ -6,10 +6,10 @@
 #' and dropping a midpoint between the actual point and the corner designated by the actual
 #' base.
 #'
-#' Version 0.0.1.
+#' Version 0.0.2.
 #' Author: Dr. Matthew Cserhati
 #' Email: matthew.cserhati@cui.edu
-#' May 5, 2025
+#' May 9, 2025
 #'
 #' @importFrom grDevices dev.off jpeg
 #' @importFrom graphics lines
@@ -43,7 +43,7 @@ dnafractal <- function(seq,start=1,end=str_length(seq),cex=0.1,dotcol="black") {
   xlim <- 130
   ylim <- 130
   Canvas(xlim = xlim, ylim = ylim, main = NULL, xpd = par("xpd"),
-         mar=c(5.1,5.1,5.1,5.1), asp = 1, bg = par("bg"), usrbg = "white")
+         mar=c(1,1,1,1), asp = 1, bg = par("bg"), usrbg = "white")
 
   X=0
   Y=0
